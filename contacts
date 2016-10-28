@@ -21,3 +21,24 @@
       </ul>
 
 <!-- Main content -->
+<style>
+ html {
+        color: crimson;
+        font: normal 15px 'im-fell-french-canon', sans-serif;
+        margin: 0 auto 0 auto;
+        text-align: right;
+        
+        
+}
+ header,
+ footer {         
+ }
+  body {
+         background-image: url(meime.png); 
+         background-size: length;  
+         text-align: center;
+ }
+  
+   
+</html>
+  </body>
