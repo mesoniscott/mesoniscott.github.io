@@ -34,7 +34,7 @@
  footer {         
  }
   body {
-         background-image: url(meime.png); 
+         background-image: url(pink.png); 
          background-size: length;  
          text-align: center;
  }
