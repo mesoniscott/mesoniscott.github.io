@@ -2,3 +2,22 @@
 <html>
 <head>
 <title>Contacts></title>
+<img src="logo5.png" alt="logo5" width="220px">
+
+</head>
+
+  
+
+<body>
+
+ 
+
+   <!-- Site navigation menu -->
+
+  <ul class="navbar">
+
+    <li><a href="index.html">Home page</a>
+
+      </ul>
+
+<!-- Main content -->
