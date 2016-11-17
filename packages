@@ -27,3 +27,12 @@ background: -webkit-radial-gradient(center, ellipse cover, rgb(252,236,252) 0%,r
 background: radial-gradient(ellipse at center, rgb(252,236,252) 0%,rgb(253,137,215) 36%,rgb(253,137,215) 36%,rgb(253,137,215) 39%,rgb(253,137,215) 39%,rgb(141,116,173) 50%,rgb(255,124,216) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', endColorstr='#ff7cd8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
+ <!-- Site navigation menu -->
+
+  <ul class="navbar">    <li><a href="index.html">⌂ Home page ⌂</a>
+
+    <li><a href="contacts.html">💻contacts💻</a>
+
+      </ul>
+
+<!-- Main content -->
