@@ -29,9 +29,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', end
 }
  <!-- Site navigation menu -->
 
-  <ul class="navbar">    <li><a href="packages.html">⌂ packages page ⌂</a>
+  <ul class="navbar">    <li><a href="index.html">⌂ home page ⌂</a>
 
     <li><a href="contacts.html">💻contacts💻</a>
+    <li><a href="http://iammelissacott.me/packages
 
       </ul>
 
